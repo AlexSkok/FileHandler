@@ -14,7 +14,7 @@ target/
 
 .idea
 pom.xml
-
+*.txt
 
 ### Eclipse ###
 .apt_generated
